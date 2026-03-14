@@ -1,8 +1,4 @@
-"""
-Data models for the Auction Management System.
-
-This module contains all the data classes used throughout the application.
-"""
+"""Data models for players, teams, and auction state."""
 
 from dataclasses import dataclass, field
 from typing import Optional

@@ -1,8 +1,4 @@
-"""
-Data management module for the Auction Management System.
-
-Handles loading players from CSV, managing teams, and persisting auction state.
-"""
+"""Data management — loads players from CSV and handles auction result exports."""
 
 import json
 import logging
