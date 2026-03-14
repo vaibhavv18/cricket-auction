@@ -1,26 +1,26 @@
 [
   {
-    "name": "Khodiyar Warriors",
-    "owner": "Pankaj Ahir",
+    "name": "Team Alpha",
+    "owner": "Owner One",
     "budget": 50000,
-    "logo": "khodiyar_warriors.png"
+    "logo": "team_alpha.png"
   },
   {
-    "name": "Om Shiv XI",
-    "owner": "Pritam Ahir",
+    "name": "Team Beta",
+    "owner": "Owner Two",
     "budget": 50000,
-    "logo": "om_shiv_xi.png"
+    "logo": "team_beta.png"
   },
   {
-    "name": "Dinesh Strikers",
-    "owner": "Nilesh Ahir",
+    "name": "Team Gamma",
+    "owner": "Owner Three",
     "budget": 50000,
-    "logo": "dinesh_strikers.png"
+    "logo": "team_gamma.png"
   },
   {
-    "name": "Mahalaxmi XI",
-    "owner": "Dipak Ahir",
+    "name": "Team Delta",
+    "owner": "Owner Four",
     "budget": 50000,
-    "logo": "mahalaxmi_xi.png"
+    "logo": "team_delta.png"
   }
 ]

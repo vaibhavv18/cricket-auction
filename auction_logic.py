@@ -1,8 +1,4 @@
-"""
-Auction logic module for the Auction Management System.
-
-Handles core auction functionality including player selection, bidding, and round management.
-"""
+"""Core auction logic — player selection, bidding, and round management."""
 
 import json
 import logging
