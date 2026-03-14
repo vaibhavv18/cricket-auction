@@ -114,7 +114,7 @@ def create_placeholder_images():
             print(f"  exists:  {photo_filename}")
             continue
 
-        img = Image.new("RGB", (400, 400), color=colors[idx % len(colors)])
+        img = Image.new("RGB", (400, 400), color=colors[idx % len(colors)]) # pyright: ignore[reportOperatorIssue]
         draw = ImageDraw.Draw(img)
         initials = "".join(word[0].upper() for word in full_name.split())
 
