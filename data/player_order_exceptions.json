@@ -1,0 +1,6 @@
+{
+  "_comment": "Add players and their desired auction position (1-based)",
+  "_example": "Vaibhav Ahir: 1 means Vaibhav will be the 1st player in auction",
+  "_instructions": "Use exact player names from CSV. Leave empty {} to disable exceptions.",
+  "_format": "Player Name: Position Number"
+}

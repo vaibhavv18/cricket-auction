@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Khodiyar Warriors",
+    "owner": "Pankaj Ahir",
+    "budget": 50000,
+    "logo": "khodiyar_warriors.png"
+  },
+  {
+    "name": "Om Shiv XI",
+    "owner": "Pritam Ahir",
+    "budget": 50000,
+    "logo": "om_shiv_xi.png"
+  },
+  {
+    "name": "Dinesh Strikers",
+    "owner": "Nilesh Ahir",
+    "budget": 50000,
+    "logo": "dinesh_strikers.png"
+  },
+  {
+    "name": "Mahalaxmi XI",
+    "owner": "Dipak Ahir",
+    "budget": 50000,
+    "logo": "mahalaxmi_xi.png"
+  }
+]

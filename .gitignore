@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal player data (contains contact numbers - do not commit)
+data/player.csv
+
+# Generated export files
+data/auction_results.csv
+data/all_players_status.csv
+data/*_roster.csv
+
+# Personal player photos (add your own to images/)
+images/*.jpg
+images/*.jpeg
+
+# Backup folder
+data/data_backup/
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
